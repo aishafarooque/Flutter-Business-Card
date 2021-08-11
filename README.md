@@ -1,5 +1,7 @@
 <!-- ![Demo GIF](https://github.com/aishafarooque/Flutter-Information-Card/blob/main/media/demo.gif?raw=true) -->
-<img align="center" src="https://github.com/aishafarooque/Flutter-Information-Card/blob/main/media/demo.gif?raw=true" width="250" height="500"/>
+<p align="center">
+<img src="https://github.com/aishafarooque/Flutter-Information-Card/blob/main/media/demo.gif?raw=true" width="250" height="500"/>
+  </p>
 
 # Mi Card
 
