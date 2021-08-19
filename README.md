@@ -3,11 +3,11 @@
 <img src="https://github.com/aishafarooque/Flutter-Information-Card/blob/main/media/demo.gif?raw=true" width="250" height="500"/>
   </p>
 
-# Mi Card
+# Business Card
 
 ## Introduction
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app. The app is written in Flutter and runs on iOS and Android devices.
+This Flutter projects is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app. The app is written in Flutter and runs on iOS and Android devices.
 
 ## What I learned:
 
